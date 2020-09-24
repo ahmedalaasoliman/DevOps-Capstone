@@ -1,8 +1,8 @@
 # Tag image
-docker tag flask-app:latest mahaamin97/flask-app:latest
+docker tag devops_capstone:latest 24114187/devops_capstone:latest
 
 # Login to docker-hub
-docker login --username=mahaamin97
+docker login --username=24114187
 
 # Push image
-docker push mahaamin97/flask-app:latest
+docker push 24114187/devops_capstone:latest
