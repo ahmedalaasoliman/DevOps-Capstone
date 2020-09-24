@@ -3,6 +3,6 @@
 
 # Login to docker-hub
 #docker login --username=24114187
-docker tag latest 24114187/devops_capstone
+docker tag latest 24114187/flask-app
 # Push image
-docker push docker.io/24114187/devops_capstone:latest
+docker push docker.io/24114187/flask-app:latest
