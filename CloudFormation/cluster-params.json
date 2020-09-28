@@ -1,0 +1,30 @@
+[
+	{
+		"ParameterKey": "KeyName",
+		"ParameterValue": "Jenkins"
+	},
+	{
+		"ParameterKey": "NodeGroupName",
+		"ParameterValue": "GroupNode01"
+	},
+	{
+		"ParameterKey": "NodeImageId",
+		"ParameterValue": "ami-0e82959d4ed12de3f"
+	},
+	{
+		"ParameterKey": "ClusterName",
+		"ParameterValue": "Production"
+	},
+	{
+		"ParameterKey": "ClusterControlPlaneSecurityGroup",
+		"ParameterValue": "sg-0fa8608a40b55acf4"
+	},
+	{
+		"ParameterKey": "VpcId",
+		"ParameterValue": "vpc-0910bd7e6dec257e2"
+	},
+	{
+		"ParameterKey": "Subnets",
+		"ParameterValue": "subnet-0ca8de30115521b07,subnet-0465ffbb0953a9a1c,subnet-00753bfb38bc7697c"
+	}
+]
